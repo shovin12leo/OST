@@ -1,2 +1,3 @@
-Print("hi Guys lets start pratical "
+Print("hi Guys lets start pratical )"
+print(" next")
       
